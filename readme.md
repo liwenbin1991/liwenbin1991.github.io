@@ -1,5 +1,5 @@
 ##this is my blog
-博客搭载在github上，地址:soohu.github.io
+博客clone的是soohu的blog，搭载在github上，地址:soohu.github.io
 
 ##Usage
 如果觉得可以的话可以直接clone这个项目
